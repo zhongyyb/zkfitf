@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module name="itfzkf">
+	<public>
+		<component remote="true" singleton="true"  tx="CMT">
+			<interface>nc.itf.itfzkf.basedata.IAccassitemService</interface>
+			<implementation>nc.impl.itfzkf.basedata.AccassitemServiceImpl</implementation>
+		</component>
+	</public>
+	<private>
+	</private>
+</module>
